@@ -1,0 +1,14 @@
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\bin\Debug\net6.0\Conustructors-Praktik.exe
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\bin\Debug\net6.0\Conustructors-Praktik.deps.json
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\bin\Debug\net6.0\Conustructors-Praktik.runtimeconfig.json
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\bin\Debug\net6.0\Conustructors-Praktik.dll
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\bin\Debug\net6.0\Conustructors-Praktik.pdb
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\obj\Debug\net6.0\Conustructors-Praktik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\obj\Debug\net6.0\Conustructors-Praktik.AssemblyInfoInputs.cache
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\obj\Debug\net6.0\Conustructors-Praktik.AssemblyInfo.cs
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\obj\Debug\net6.0\Conustructors-Praktik.csproj.CoreCompileInputs.cache
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\obj\Debug\net6.0\Conustructors-Praktik.dll
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\obj\Debug\net6.0\refint\Conustructors-Praktik.dll
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\obj\Debug\net6.0\Conustructors-Praktik.pdb
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\obj\Debug\net6.0\Conustructors-Praktik.genruntimeconfig.cache
+C:\Users\Əsgərxan\Desktop\Conustructors-Praktik\Conustructors-Praktik\obj\Debug\net6.0\ref\Conustructors-Praktik.dll
